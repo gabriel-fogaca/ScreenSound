@@ -2512,19 +2512,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GabrielFogaça\\.nuget\\packages\\": {}
+    "/home/gabriel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GabrielFogaça\\Documents\\aula\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "/home/gabriel/aula-alura/ScreenSound/ScreenSound/ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "C:\\Users\\GabrielFogaça\\Documents\\aula\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj",
-      "packagesPath": "C:\\Users\\GabrielFogaça\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GabrielFogaça\\Documents\\aula\\3506-csharpWeb-screensound-curso1\\ScreenSound\\obj\\",
+      "projectPath": "/home/gabriel/aula-alura/ScreenSound/ScreenSound/ScreenSound.csproj",
+      "packagesPath": "/home/gabriel/.nuget/packages/",
+      "outputPath": "/home/gabriel/aula-alura/ScreenSound/ScreenSound/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GabrielFogaça\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/gabriel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2542,11 +2542,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2583,15 +2578,11 @@
             "version": "[6.0.31, 6.0.31]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
             "version": "[6.0.31, 6.0.31]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.31, 6.0.31]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
             "version": "[6.0.31, 6.0.31]"
           }
         ],
@@ -2600,7 +2591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
       }
     }
   }
